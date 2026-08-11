@@ -64,6 +64,8 @@ churn-prediction/
 
 Python, pandas, scikit-learn, Streamlit, matplotlib/seaborn, joblib
 
-## Related Project
+## Screenshots
 
-Paired with a separate RFM customer segmentation project (repo linked once complete), both feeding into the broader CRM system SDP.
+![Churn Predictor App](images/app_screenshot01.png)
+
+![Churn Predictor App](images/app_screenshot02.png)
