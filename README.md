@@ -37,9 +37,11 @@ Class imbalance (~73.5% retained / ~26.5% churned) was handled via `class_weight
 
 ## Live Predictor
 
+**Try it live:** https://churn-prediction-8lcmlc7vrnkdadgpcxdbwh.streamlit.app/
+
 An interactive Streamlit app (`app.py`) loads the trained model and lets you input a customer's details to get a live churn prediction and risk breakdown.
 
-### Setup
+### Run locally
 
 ```bash
 pip install -r requirements.txt
@@ -63,6 +65,8 @@ churn-prediction/
 ## Tech Stack
 
 Python, pandas, scikit-learn, Streamlit, matplotlib/seaborn, joblib
+
+
 
 ## Screenshots
 
